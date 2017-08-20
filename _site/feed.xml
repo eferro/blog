@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 09:53:03 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 09:53:03 +0200</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 10:00:05 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 10:00:05 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -43,7 +43,7 @@
         <description>&lt;p&gt;I like to think that I can consider myself a professional software developer after 20 years or working on it. Since some years ago I feel very aligned with agile software development movement and lately with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Software_craftsmanship&quot;&gt;software craftmanship movement&lt;/a&gt;. I started to be interested in agile in 2002-2003 and in the software craftsmanship in 2012.
 Currently when I try to describe myself I use the words “&lt;strong&gt;software craftsman&lt;/strong&gt;” as an equivalent to “&lt;strong&gt;software developer, continuously trying to improve his skills and craft&lt;/strong&gt;”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://yourdomain.com/assets/_will_not_write_any_more_bad_code.png&quot; alt=&quot;I will not write any more bad code&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/I_will_not_write_any_more_bad_code.png&quot; alt=&quot;I will not write any more bad code&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let me explain what I mean by “software craftsman”:&lt;/p&gt;
 
