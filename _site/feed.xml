@@ -4,10 +4,10 @@
     <title>eferro&#39;s random stuff</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/blog/</link>
-    <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 10:00:05 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 10:00:05 +0200</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Aug 2017 10:05:53 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 10:05:53 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 28 Jul 2017 20:58:53 +0200</pubDate>
-        <link>http://yourdomain.com/blog/jekyll/update/2017/07/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2017/07/28/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2017/07/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/07/28/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -43,7 +43,7 @@
         <description>&lt;p&gt;I like to think that I can consider myself a professional software developer after 20 years or working on it. Since some years ago I feel very aligned with agile software development movement and lately with the &lt;a href=&quot;https://en.wikipedia.org/wiki/Software_craftsmanship&quot;&gt;software craftmanship movement&lt;/a&gt;. I started to be interested in agile in 2002-2003 and in the software craftsmanship in 2012.
 Currently when I try to describe myself I use the words “&lt;strong&gt;software craftsman&lt;/strong&gt;” as an equivalent to “&lt;strong&gt;software developer, continuously trying to improve his skills and craft&lt;/strong&gt;”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/I_will_not_write_any_more_bad_code.png&quot; alt=&quot;I will not write any more bad code&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/I_will_not_write_any_more_bad_code.png&quot; alt=&quot;I will not write any more bad code&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let me explain what I mean by “software craftsman”:&lt;/p&gt;
 
@@ -80,8 +80,8 @@ In fact, for my, this definition can be a good option, but currently, the term a
 
 </description>
         <pubDate>Sun, 14 Aug 2016 09:14:58 +0200</pubDate>
-        <link>http://yourdomain.com/blog/jekyll/update/2016/08/14/why-i-use-the-term-software-craftman.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2016/08/14/why-i-use-the-term-software-craftman.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2016/08/14/why-i-use-the-term-software-craftman.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/08/14/why-i-use-the-term-software-craftman.html</guid>
         
         
         <category>jekyll</category>
