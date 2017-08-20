@@ -8,7 +8,7 @@ categories: jekyll update
 I like to think that I can consider myself a professional software developer after 20 years or working on it. Since some years ago I feel very aligned with agile software development movement and lately with the [software craftmanship movement](https://en.wikipedia.org/wiki/Software_craftsmanship). I started to be interested in agile in 2002-2003 and in the software craftsmanship in 2012.
 Currently when I try to describe myself I use the words “**software craftsman**” as an equivalent to “**software developer, continuously trying to improve his skills and craft**”.
 
-![I will not write any more bad code]({{ site.url }}/assets/_will_not_write_any_more_bad_code.png)
+![I will not write any more bad code]({{ site.baseurl }}/assets/_will_not_write_any_more_bad_code.png)
 
 Let me explain what I mean by “software craftsman”:
 
